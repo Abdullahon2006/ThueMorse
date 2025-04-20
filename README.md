@@ -52,7 +52,8 @@ Where `n` is the size of the pattern (positive integer, doesn't need to be power
 
 ## Visual Example
 
-![Thue-Morse Weave Pattern](thue-morse.png)
+<img src="thue-morse.png" width="300" height="245">
+
 
 ## How It Works
 
